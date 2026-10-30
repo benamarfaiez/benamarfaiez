@@ -20,8 +20,6 @@
 
 ## 👨‍💻 À propos
 
-> *« My bio won't tell you who I am. My code will. »*
-
 **Senior Full-Stack Software Engineer** spécialisé dans la conception, l'optimisation et la sécurisation d'architectures applicatives complexes. Diplômé de l'**École Nationale des Sciences de l'Informatique (ENSI)**, j'applique des principes d'ingénierie rigoureux (Clean Architecture, DDD, CQRS, SOLID) pour bâtir des systèmes distribués hautement performants.
 
 - **Focus actuel :** Architectures distribuées .NET, systèmes temps réel (SignalR) et interfaces web modernes (Angular / React / Blazor).
@@ -75,35 +73,6 @@
 
 ---
 
-## 🚀 Projets Phares
-
-<table>
-  <tr>
-    <td style="width: 50%; vertical-align: top;">
-      <h3 align="center">📌 TaskFlow</h3>
-      <p align="center"><b>Task &amp; Project Management Engine</b></p>
-      <p>Plateforme de gestion de projets full-stack conçue avec <b>Clean Architecture</b>, <b>.NET 8</b> et <b>PostgreSQL</b>. Intègre JWT, tableaux Kanban interactifs et notifications temps réel via <b>SignalR</b>.</p>
-      <p align="center">
-        <code>.NET 8</code> • <code>PostgreSQL</code> • <code>SignalR</code> • <code>Clean Arch</code>
-      </p>
-      <p align="center">
-        <a href="https://github.com/benamarfaiez/TaskFlow"><b>Explorer le dépôt →</b></a>
-      </p>
-    </td>
-    <td style="width: 50%; vertical-align: top;">
-      <h3 align="center">📌 AssetFlow_Core</h3>
-      <p align="center"><b>Workflow Engine &amp; Asset Management</b></p>
-      <p>Micro-système générique de gestion d'actifs (Assets) et de tickets de maintenance, alimenté par un <b>moteur de règles dynamique</b> orienté Workflows.</p>
-      <p align="center">
-        <code>C#</code> • <code>Workflows</code> • <code>Domain Architecture</code>
-      </p>
-      <p align="center">
-        <a href="https://github.com/benamarfaiez/AssetFlow_Core"><b>Explorer le dépôt →</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -113,7 +82,6 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=benamarfaiez&theme=github_dark" width="70%" alt="Répartition de l'activité : Commits, Pull Requests, Issues, Code Review" />
 </div>
----
 
 <div align="center">
   <i>📫 Discutons architecture logicielle, .NET ou collaborations innovantes — contactez-moi via <a href="https://www.linkedin.com/in/faiez-ben-amar/">LinkedIn</a>.</i>
