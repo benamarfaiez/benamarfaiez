@@ -93,18 +93,18 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=benamarfaiez&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benamarfaiez&layout=compact&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=benamarfaiez&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=benamarfaiez&layout=compact&theme=dark&hide_border=true" width="48%" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=benamarfaiez&theme=dark&hide_border=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=benamarfaiez&theme=dark&hide_border=true" width="100%" alt="GitHub Streak" />
 </div>
 
 ---
 
 <div align="center">
-  <i>📫 Vous souhaitez discuter d'architecture logicielle ou collaborer ? N'hésitez pas à me contacter via <a href="https://www.linkedin.com/in/faiez-ben-amar/">LinkedIn</a> !</i>
+  <i>📫 Vous souhaitez discuter d'architecture logicielle, de .NET ou collaborer sur des projets innovants ? Contactez-moi via <a href="https://www.linkedin.com/in/faiez-ben-amar/">LinkedIn</a> !</i>
 </div>
