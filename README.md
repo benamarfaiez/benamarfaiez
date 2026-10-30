@@ -110,6 +110,9 @@
   <img src="https://streak-stats.demolab.com/?user=benamarfaiez&theme=dark&hide_border=true" width="70%" alt="Série de contributions GitHub de benamarfaiez" />
 </div>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=benamarfaiez&theme=github_dark" width="70%" alt="Répartition de l'activité : Commits, Pull Requests, Issues, Code Review" />
+</div>
 ---
 
 <div align="center">
