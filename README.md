@@ -1,34 +1,39 @@
-<h-align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Faiez%20BEN%20AMAR&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ingénieur%20Logiciel%20Full-Stack%20•%20Architecte%20.NET%20&%20Angular/React&descSize=16&descAlignY=62" width="100%" />
-</h>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,4,8&height=120&section=header&text=Faiez%20BEN%20AMAR&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=Full-Stack%20Software%20Engineer%20•%20.NET%20&%20Modern%20Web&descSize=14&descAlignY=75" width="100%" />
+</div>
+
+<div align="center">
+  <i>"My bio won't tell you who I am. My code will."</i>
+</div>
+
+<br/>
 
 <div align="center">
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faiez-ben-amar/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://react-app-six-khaki.vercel.app/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:votre.email@example.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faiez-ben-amar/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://react-app-six-khaki.vercel.app/)
+  [![Location](https://img.shields.io/badge/Location-Nantes%20/%20France-blue?style=flat&logo=googlemaps&logoColor=white)](https://github.com/benamarfaiez)
 
 </div>
 
 ---
 
-### 💻 À propos de moi
+### ⚡ À propos de moi
 
-* 🔭 **En poste / Actif sur :** Des architectures robustes et scalables, spécialisé dans l'écosystème **.NET** côté Backend et **Angular / React** côté Frontend.
-* 💡 **Philosophie :** Clean Architecture, Domain-Driven Design (DDD), CQRS, principes SOLID et performances (zéro allocation / haute efficacité).
-* 🎯 **Objectif actuel :** Concevoir des logiciels maintenables, hautement sécurisés et performants, tout en partageant des bonnes pratiques d'architecture.
+* 💻 Ingénieur Logiciel Full-Stack spécialisé dans la conception d'architectures backend robustes et performantes.
+* 🧠 Passionné par le code propre, la Clean Architecture, le Domain-Driven Design (DDD) et les optimisations bas niveau (zéro allocation).
+* 🛠️ Actuellement concentré sur l'écosystème **.NET**, **C#**, et le développement de solutions web modulaires (**Angular / React**).
 
 ---
 
-### 🛠️ Stack Technique & Compétences
+### 🛠️ Tech Stack
 
-| Catégorie | Technologies & Outils |
-| :--- | :--- |
-| **Backend** | `C#`, `.NET (.NET Framework, Core, 6/8/10)`, `ASP.NET Core`, `Entity Framework Core`, `Dapper`, `WCF`, `gRPC`, `REST APIs`, `HATEOAS/HAL` |
-| **Frontend** | `Angular (12-21)`, `React (18, TSX)`, `TypeScript`, `Tailwind CSS`, `Microsoft Fluent UI`, `.NET MAUI` |
-| **Bases de données** | `SQL Server`, `PostgreSQL`, `MySQL`, `SQLite` |
-| **Tests & Qualité** | `xUnit`, `Moq`, `Testcontainers`, `Playwright`, `K6 (Performance)` |
-| **DevOps & Outils** | `Docker`, `Kubernetes`, `GitHub Actions`, `GitLab CI/CD`, `Azure DevOps`, `Visual Studio`, `JetBrains Rider`, `Cursor` |
+```text
+Languages   : C#, TypeScript, JavaScript, SQL
+Backend     : .NET 6/8/10, ASP.NET Core, Entity Framework Core, Dapper, gRPC, WCF, REST APIs
+Frontend    : Angular (12-21), React 18 (TSX), Tailwind CSS, Microsoft Fluent UI
+Databases   : PostgreSQL, SQL Server, MySQL, SQLite
+DevOps/Tools: Docker, Kubernetes, GitHub Actions, GitLab CI/CD, Azure DevOps, Rider, Cursor
 
 ---
 
