@@ -1,90 +1,93 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0078D4&height=200&section=header&text=Faiez%20BEN%20AMAR&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Full-Stack%20Software%20Engineer%20•%20.NET%20%26%20Modern%20Web%20Architect&descSize=16&descAlignY=62" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0078D4&height=200&section=header&text=Faiez%20BEN%20AMAR&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ing%C3%A9nieur%20Logiciel%20Full-Stack%20%E2%80%A2%20.NET%20%26%20Angular/React&descSize=16&descAlignY=62" width="100%" />
 </div>
 
 <div align="center">
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faiez-ben-amar/)
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://react-app-six-khaki.vercel.app/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benamarfaiez@gmail.com)
   [![Location](https://img.shields.io/badge/Location-Nantes%2C%20France-EA4335?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/benamarfaiez)
 
 </div>
 
 <br/>
 
-## 👨‍💻 About Me
+## 👨‍💻 À propos de moi
 
-> **Senior Full-Stack Software Engineer** spécialisé dans la conception, l'optimisation et la sécurisation d'architectures applicatives complexes. Diplômé de l'**École Nationale des Sciences de l'Informatique**, j'applique des principes d'ingénierie rigoureux (Clean Architecture, DDD, CQRS, SOLID) pour bâtir des systèmes distribués hautement performants.
+> **Ingénieur Logiciel Full-Stack .NET / Angular** diplômé de l'**École Nationale des Sciences de l'Informatique (ENSI)**, fort de 6 ans d'expérience. Je suis spécialisé dans la conception d'architectures applicatives robustes (**Clean Architecture, DDD, CQRS**) et la modernisation de systèmes d'information, du legacy (.NET Framework, WCF) aux écosystèmes récents. J'interviens sur des domaines métier complexes et réglementés (assurance, courtage financier, bancaire) pour bâtir des solutions fiables, performantes et évolutives.
 
-- 🔭 **Focus Actuel :** Architectures distribuées .NET 8/10, systèmes temps réel (SignalR) et interfaces web modernes (Angular / React).
-- ⚡ **Expertise Clé :** Écosystème .NET, Microservices, API REST HATEOAS, Optimisations réseau/mémoire bas niveau (Zero-Allocation).
-- 🎓 **Formation :** Ingénieur diplômé de l'École Nationale des Sciences de l'Informatique (ENSI).
+- 🔭 **Focus Actuel :** Architectures distribuées .NET 8/10, intégrations IA/RAG, microservices et applications web modulaires (Angular 12-21, React 19).
+- 💡 **Philosophie :** Priorité absolue à la qualité du code, aux patterns de conception pérennes, à l'automatisation et à la performance.
+- 📍 **Localisation :** Nantes, France (mobilité France entière).
 
 ---
 
-## 🛠 Tech Stack & Ecosystem
+## 🛠️ Stack Technique & Compétences
 
 ### 🔹 Backend & Architecture
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET_8%2F10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_6%2F8%2F10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![EF Core](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Dapper](https://img.shields.io/badge/Dapper-000000?style=for-the-badge&logo=nuget&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-0055E6?style=for-the-badge&logo=json&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0055E6?style=for-the-badge&logo=codeforces&logoColor=white)
+![CQRS](https://img.shields.io/badge/CQRS-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
 
-### 🔹 Frontend & Mobile
+### 🔹 Frontend & UI
 ![Angular](https://img.shields.io/badge/Angular_12--21-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React_18-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
 
-### 🔹 Data & Infrastructure
+### 🔹 Bases de données, DevOps & Qualité
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 
 ---
 
-## 📌 Featured Projects
+## 📌 Projets & Réalisations Phares
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">📌 TaskFlow</h3>
-      <p align="center">
-        <b>Task & Project Management Engine</b>
-      </p>
-      <p>Plateforme de gestion de projets full-stack conçue avec Clean Architecture, .NET 8 et PostgreSQL. Intègre JWT, tableaux Kanban interactifs et notifications temps réel via SignalR.</p>
-      <p align="center">
-        <code>.NET 8</code> • <code>PostgreSQL</code> • <code>SignalR</code> • <code>Clean Arch</code>
-      </p>
-      <p align="center">
-        <a href="https://github.com/benamarfaiez/TaskFlow"><b>Voir le dépôt »</b></a>
-      </p>
+      <h3 align="center">📌 Actions Associatives</h3>
+      <p align="center"><b>APF France Handicap</b></p>
+      <p>Conception <i>from scratch</i> d'une application de gestion et de tableaux de bord analytiques. Clean Architecture sous .NET 8 et React 19 avec pattern CQRS et synchronisation Google Sheets API.</p>
+      <p align="center"><code>.NET 8</code> • <code>React 19</code> • <code>CQRS</code> • <code>FluentValidation</code></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">📌 AssetFlow_Core</h3>
-      <p align="center">
-        <b>Workflow Engine & Asset Management</b>
-      </p>
-      <p>Micro-système générique de gestion d'actifs (Assets) et de tickets de maintenance, alimenté par un moteur de règles dynamique orienté Workflows.</p>
-      <p align="center">
-        <code>C#</code> • <code>Workflows</code> • <code>Domain Architecture</code>
-      </p>
-      <p align="center">
-        <a href="https://github.com/benamarfaiez/AssetFlow_Core"><b>Voir le dépôt »</b></a>
-      </p>
+      <p align="center"><b>Projet R&D Interne</b></p>
+      <p>Système de gestion d'actifs et d'astreintes avec moteur d'assignation dynamique (Strategy Pattern) et module d'assistance IA basé sur une architecture RAG avec anonymisation RGPD.</p>
+      <p align="center"><code>.NET 8</code> • <code>DDD</code> • <code>RAG / IA</code> • <code>SignalR</code> • <code>BenchmarkDotNet</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📌 Outil d'Automatisation de Migration .NET</h3>
+      <p align="center"><b>Henner</b></p>
+      <p>Développement d'un outil C# (LibGit2Sharp) pour la migration automatique de +100 projets vers .NET 8 (mise à jour SDK, packages, Dockerfiles et pipelines CI/CD à 80% automatisés).</p>
+      <p align="center"><code>.NET 8</code> • <code>LibGit2Sharp</code> • <code>Docker</code> • <code>GitLab CI</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📌 Plateforme Documentaire Pixis</h3>
+      <p align="center"><b>Euro Information</b></p>
+      <p>Modernisation d'une plateforme de consultation documentaire multi-formats et multi-versions. Refonte de services WCF en API REST HATEOAS/HAL et frontend Angular 12 <i>from scratch</i>.</p>
+      <p align="center"><code>.NET Framework 4.8</code> • <code>WCF / REST</code> • <code>Angular 12</code> • <code>SQL Server</code></p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Statistiques GitHub & Activité
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=benamarfaiez&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
@@ -100,5 +103,5 @@
 ---
 
 <div align="center">
-  <i>📫 Vous souhaitez discuter d'architecture logicielle ou collaborer ? N'hésitez pas à me contacter via <a href="https://www.linkedin.com/in/faiez-ben-amar/">LinkedIn</a> !</i>
+  <i>📫 Vous souhaitez échanger sur l'architecture logicielle, l'écosystème .NET ou collaborer sur des projets complexes ? N'hésitez pas à me contacter sur <a href="https://www.linkedin.com/in/faiez-ben-amar/">LinkedIn</a> ou par e-mail à <a href="mailto:benamarfaiez@gmail.com">benamarfaiez@gmail.com</a> !</i>
 </div>
