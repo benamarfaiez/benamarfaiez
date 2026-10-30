@@ -16,11 +16,6 @@
 
 </div>
 
-## 🎯 Statut
-
-🟢 **Ouvert aux opportunités** — CDI, missions freelance, ou collaborations open-source.
-📍 **Nantes / France** — remote-friendly, mobilité France/UE.
-
 ---
 
 ## 👨‍💻 À propos
@@ -29,9 +24,9 @@
 
 **Senior Full-Stack Software Engineer** spécialisé dans la conception, l'optimisation et la sécurisation d'architectures applicatives complexes. Diplômé de l'**École Nationale des Sciences de l'Informatique (ENSI)**, j'applique des principes d'ingénierie rigoureux (Clean Architecture, DDD, CQRS, SOLID) pour bâtir des systèmes distribués hautement performants.
 
-- 🔭 **Focus actuel :** Architectures distribuées .NET, systèmes temps réel (SignalR) et interfaces web modernes (Angular / React / Blazor).
-- ⚡ **Expertise clé :** Écosystème .NET, Microservices, API REST HATEOAS, optimisations réseau/mémoire bas niveau (Zero-Allocation).
-- 🎯 **Philosophie :** La clarté du code prime sur l'astuce. Un système maintenable vaut mieux qu'un système « impressionnant ».
+- **Focus actuel :** Architectures distribuées .NET, systèmes temps réel (SignalR) et interfaces web modernes (Angular / React / Blazor).
+- **Expertise clé :** Écosystème .NET, Microservices, API REST HATEOAS, optimisations réseau/mémoire bas niveau (Zero-Allocation).
+- **Philosophie :** La clarté du code prime sur l'astuce. Un système maintenable vaut mieux qu'un système « impressionnant ».
 
 ---
 
@@ -110,11 +105,6 @@
 ---
 
 ## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=benamarfaiez&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&rank_icon=github" width="48%" alt="Statistiques GitHub de benamarfaiez" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=benamarfaiez&layout=compact&theme=dark&hide_border=true&langs_count=8" width="48%" alt="Langages les plus utilisés par benamarfaiez" />
-</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=benamarfaiez&theme=dark&hide_border=true" width="70%" alt="Série de contributions GitHub de benamarfaiez" />
