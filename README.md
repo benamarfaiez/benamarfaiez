@@ -37,28 +37,44 @@
 
 ## 🛠 Stack Technique
 
-### 🔹 Backend & Architecture
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET_8%2F10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![EF Core](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Dapper](https://img.shields.io/badge/Dapper-000000?style=for-the-badge&logo=nuget&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-0055E6?style=for-the-badge&logo=json&logoColor=white)
-
-### 🔹 Frontend & Mobile
-![Angular](https://img.shields.io/badge/Angular_12--21-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React_18-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-### 🔹 Data & Infrastructure
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="25%"><b>Catégorie</b></td>
+    <td align="center" width="75%"><b>Technologies</b></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend & Architecture</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+      <img src="https://img.shields.io/badge/.NET_8%2F10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+      <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+      <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="EF Core" />
+      <img src="https://img.shields.io/badge/Dapper-000000?style=for-the-badge&logo=nuget&logoColor=white" alt="Dapper" />
+      <img src="https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC" />
+      <img src="https://img.shields.io/badge/REST_API-0055E6?style=for-the-badge&logo=json&logoColor=white" alt="REST API" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frontend & Mobile</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Angular_12--21-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+      <img src="https://img.shields.io/badge/React_18-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET MAUI" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Data & Infrastructure</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+      <img src="https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -96,8 +112,8 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=benamarfaiez&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&rank_icon=github" width="48%" alt="Statistiques GitHub de benamarfaiez" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benamarfaiez&layout=compact&theme=dark&hide_border=true&langs_count=8" width="48%" alt="Langages les plus utilisés par benamarfaiez" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=benamarfaiez&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&rank_icon=github" width="48%" alt="Statistiques GitHub de benamarfaiez" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=benamarfaiez&layout=compact&theme=dark&hide_border=true&langs_count=8" width="48%" alt="Langages les plus utilisés par benamarfaiez" />
 </div>
 
 <div align="center">
