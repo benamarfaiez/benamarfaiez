@@ -1,34 +1,41 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,4,8&height=120&section=header&text=Faiez%20BEN%20AMAR&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=Full-Stack%20Software%20Engineer%20•%20.NET%20&%20Modern%20Web&descSize=14&descAlignY=75" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,4,8&height=220&section=header&text=Faiez%20BEN%20AMAR&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=35&animation=fadeIn&desc=Senior%20Full-Stack%20Engineer%20%C2%B7%20.NET%20Architect&descSize=16&descAlign=50&descAlignY=55" width="100%" alt="Bannière — Faiez BEN AMAR, Senior Full-Stack Engineer .NET Architect" />
 </div>
 
 <div align="center">
-  <i>"My bio won't tell you who I am. My code will."</i>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=512BD4&center=true&vCenter=true&width=500&lines=Architecting+distributed+.NET+systems;Clean+Architecture+%7C+DDD+%7C+CQRS;Building+high-performance+APIs+%26+real-time+apps;Code+is+my+bio." alt="Messages défilants : Clean Architecture, DDD, CQRS, APIs haute performance" />
+  </a>
 </div>
-
-<br/>
 
 <div align="center">
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faiez-ben-amar/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://react-app-six-khaki.vercel.app/)
-  [![Location](https://img.shields.io/badge/Location-Nantes%20/%20France-blue?style=flat&logo=googlemaps&logoColor=white)](https://github.com/benamarfaiez)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faiez-ben-amar/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://react-app-six-khaki.vercel.app/)
+  [![Location](https://img.shields.io/badge/Nantes,_France-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/benamarfaiez)
 
 </div>
 
----
+## 🎯 Statut
 
-## 👨‍💻 About Me
-
-> **Senior Full-Stack Software Engineer** spécialisé dans la conception, l'optimisation et la sécurisation d'architectures applicatives complexes. Diplômé de l'**École Nationale des Sciences de l'Informatique**, j'applique des principes d'ingénierie rigoureux (Clean Architecture, DDD, CQRS, SOLID) pour bâtir des systèmes distribués hautement performants.
-
-- 🔭 **Focus Actuel :** Architectures distribuées .NET, systèmes temps réel (SignalR) et interfaces web modernes (Angular / React / Blazor).
-- ⚡ **Expertise Clé :** Écosystème .NET, Microservices, API REST HATEOAS, Optimisations réseau/mémoire bas niveau (Zero-Allocation).
-- 🎓 **Formation :** Ingénieur diplômé de l'École Nationale des Sciences de l'Informatique (ENSI).
+🟢 **Ouvert aux opportunités** — CDI, missions freelance, ou collaborations open-source.
+📍 **Nantes / France** — remote-friendly, mobilité France/UE.
 
 ---
 
-## 🛠 Tech Stack & Ecosystem
+## 👨‍💻 À propos
+
+> *« My bio won't tell you who I am. My code will. »*
+
+**Senior Full-Stack Software Engineer** spécialisé dans la conception, l'optimisation et la sécurisation d'architectures applicatives complexes. Diplômé de l'**École Nationale des Sciences de l'Informatique (ENSI)**, j'applique des principes d'ingénierie rigoureux (Clean Architecture, DDD, CQRS, SOLID) pour bâtir des systèmes distribués hautement performants.
+
+- 🔭 **Focus actuel :** Architectures distribuées .NET, systèmes temps réel (SignalR) et interfaces web modernes (Angular / React / Blazor).
+- ⚡ **Expertise clé :** Écosystème .NET, Microservices, API REST HATEOAS, optimisations réseau/mémoire bas niveau (Zero-Allocation).
+- 🎯 **Philosophie :** La clarté du code prime sur l'astuce. Un système maintenable vaut mieux qu'un système « impressionnant ».
+
+---
+
+## 🛠 Stack Technique
 
 ### 🔹 Backend & Architecture
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -55,34 +62,30 @@
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Projets Phares
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td style="width: 50%; vertical-align: top;">
       <h3 align="center">📌 TaskFlow</h3>
-      <p align="center">
-        <b>Task & Project Management Engine</b>
-      </p>
-      <p>Plateforme de gestion de projets full-stack conçue avec Clean Architecture, .NET 8 et PostgreSQL. Intègre JWT, tableaux Kanban interactifs et notifications temps réel via SignalR.</p>
+      <p align="center"><b>Task &amp; Project Management Engine</b></p>
+      <p>Plateforme de gestion de projets full-stack conçue avec <b>Clean Architecture</b>, <b>.NET 8</b> et <b>PostgreSQL</b>. Intègre JWT, tableaux Kanban interactifs et notifications temps réel via <b>SignalR</b>.</p>
       <p align="center">
         <code>.NET 8</code> • <code>PostgreSQL</code> • <code>SignalR</code> • <code>Clean Arch</code>
       </p>
       <p align="center">
-        <a href="https://github.com/benamarfaiez/TaskFlow"><b>Voir le dépôt »</b></a>
+        <a href="https://github.com/benamarfaiez/TaskFlow"><b>Explorer le dépôt →</b></a>
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td style="width: 50%; vertical-align: top;">
       <h3 align="center">📌 AssetFlow_Core</h3>
-      <p align="center">
-        <b>Workflow Engine & Asset Management</b>
-      </p>
-      <p>Micro-système générique de gestion d'actifs (Assets) et de tickets de maintenance, alimenté par un moteur de règles dynamique orienté Workflows.</p>
+      <p align="center"><b>Workflow Engine &amp; Asset Management</b></p>
+      <p>Micro-système générique de gestion d'actifs (Assets) et de tickets de maintenance, alimenté par un <b>moteur de règles dynamique</b> orienté Workflows.</p>
       <p align="center">
         <code>C#</code> • <code>Workflows</code> • <code>Domain Architecture</code>
       </p>
       <p align="center">
-        <a href="https://github.com/benamarfaiez/AssetFlow_Core"><b>Voir le dépôt »</b></a>
+        <a href="https://github.com/benamarfaiez/AssetFlow_Core"><b>Explorer le dépôt →</b></a>
       </p>
     </td>
   </tr>
@@ -93,18 +96,16 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=benamarfaiez&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=benamarfaiez&layout=compact&theme=dark&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=benamarfaiez&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&rank_icon=github" width="48%" alt="Statistiques GitHub de benamarfaiez" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benamarfaiez&layout=compact&theme=dark&hide_border=true&langs_count=8" width="48%" alt="Langages les plus utilisés par benamarfaiez" />
 </div>
 
-<br/>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=benamarfaiez&theme=dark&hide_border=true" width="100%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=benamarfaiez&theme=dark&hide_border=true" width="70%" alt="Série de contributions GitHub de benamarfaiez" />
 </div>
 
 ---
 
 <div align="center">
-  <i>📫 Vous souhaitez discuter d'architecture logicielle, de .NET ou collaborer sur des projets innovants ? Contactez-moi via <a href="https://www.linkedin.com/in/faiez-ben-amar/">LinkedIn</a> !</i>
+  <i>📫 Discutons architecture logicielle, .NET ou collaborations innovantes — contactez-moi via <a href="https://www.linkedin.com/in/faiez-ben-amar/">LinkedIn</a>.</i>
 </div>
